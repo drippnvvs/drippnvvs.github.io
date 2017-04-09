@@ -5,9 +5,9 @@ Architecture: iphoneos-arm
 Maintainer: drippnvvs <drippnvvs@gmail.com>
 Filename: deb/quartzy-beta.deb
 Size: 1407674
-MD5sum: 246186c15dc651b8be4e732828cb3505
-SHA1: 9a67e7b12f0116b354c5005f0bd648ccab1c791c
-SHA256: 91cd5a940858b6150751a186fb4252467d9dbdb1595f7695ab75365ea2703d3f
+MD5sum: 7dd16d66fefeaaf3c05f6727c36cdad7
+SHA1: 3fd8832fb8405dbec2e7963d3b481991591dee67
+SHA256: 250e0da49e76fda2cb2e71921e888135e3c8b836490b767dd62011be8d6c551d
 Section: Themes
 Homepage: https://drippnvvs.github.io
 Description: Quartzy-beta exclusive
