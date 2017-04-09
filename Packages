@@ -1,16 +1,17 @@
-Package: co.dynastic.themes.quartzy
-Depiction: https://dr1ppnvv5.github.io/depiction/co.dynastic.themes.quartzy/
+Package: net.winneonsword.package
+Depiction: https://dr1ppnvv5.github.io/depiction/net.winneonsword.package/
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: AppleBetas
-Depends: com.anemonetheming.anemone
-Filename: deb/co.dynastic.themes.quartzy.deb
-Size: 1249702
-MD5sum: 284ca88ca4fff72657319c6a960ae2d8
-SHA1: 47b073555263e5a3b68fc1db02e1123c47ed5566
-SHA256: 8ac21334647a0529cf3b81c0602485b268845306bca77c901930dd7e5287913b
-Section: Themes (Anemone)
-Description: Meticulously crafted crystal icons.
-Author: drippnvvs and TheSlyProgeny
-Name: Quartzy Beta
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: deb/quartzy-beta.deb
+Size: 934164
+MD5sum: 0596a1dda5bb89afd24b1185a9ea5a83
+SHA1: 647aecf64e9f680687f8d4aa45fb177986da20cd
+SHA256: caa2a1d475f462569ead374058cab6611cfbf0565c98815d4c84e08bb0d3e2d2
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: This is a test package from /u/WinneonSword's tutorial repository!
+Author: Jesse Bryan <winneonsword@gmail.com>
+Depiction: http://repo.winneonsword.net/packages/package.html
+Name: Test Package
 
