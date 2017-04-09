@@ -1,0 +1,16 @@
+Package: co.dynastic.themes.quartzy
+Depiction: https://repo.applebetas.tk/depiction/co.dynastic.themes.quartzy/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: com.anemonetheming.anemone
+Filename: deb/co.dynastic.themes.quartzy.deb
+Size: 1249702
+MD5sum: 284ca88ca4fff72657319c6a960ae2d8
+SHA1: 47b073555263e5a3b68fc1db02e1123c47ed5566
+SHA256: 8ac21334647a0529cf3b81c0602485b268845306bca77c901930dd7e5287913b
+Section: Themes (Anemone)
+Description: Meticulously crafted crystal icons.
+Author: drippnvvs and TheSlyProgeny
+Name: Quartzy Beta
+

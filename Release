@@ -1,0 +1,19 @@
+Origin: AppleBetas' Repo
+
+Label: AppleBetas' Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: ios
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: A collection of useful tweaks and tools
+
+MD5Sum:
+0b63b72d9caf9b25efcf0fee5dbeb406 486 Packages
+  Packages.bz2
