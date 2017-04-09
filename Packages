@@ -1,13 +1,13 @@
 Package: co.dynastic.themes.quartzy
 Depiction: https://dr1ppnvv5.github.io/depiction/co.dynastic.themes.quartzy/
-Version: 1.0.0.1
+Version: 1.0.1-a1
 Architecture: iphoneos-arm
 Maintainer: drippnvvs <drippnvvs@gmail.com>
 Filename: deb/quartzy-beta.deb
-Size: 934166
-MD5sum: 5a05c599174d6275af160e89fe8f5321
-SHA1: 1c5fdf7ea008992cbcd763e8ff9a1642c54c9e95
-SHA256: 56e72e6e3f137f05ed9e4e28cd07f9837d8ecc499b45f202b5ccc2f469292ae6
+Size: 1407670
+MD5sum: cfabb30f1c002518af3693751fb3adbd
+SHA1: 5d9b50787ea1ba1f1a4b44b563570d44b461b59c
+SHA256: cf4d04d503194bec1fd6ea728af8dff485922d9cac2b16fdf5c567078c663d65
 Section: Themes
 Homepage: https://drippnvvs.github.io
 Description: Quartzy-beta exclusive
