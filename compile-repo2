@@ -48,7 +48,7 @@ while (my $file = readdir(DIR)) {
   if($file eq "." or $file eq ".." or $file eq ".DS_Store") {
     next;
   }
-	system("find . ".DS_Store" -remove && dpkg-deb -Zgzip -b uncompiled-packages/".$file." deb/".$file.".deb");
+	system("dpkg-deb -Zgzip -b uncompiled-packages/".$file." deb/".$file.".deb");
 }
 closedir(DIR);
 
