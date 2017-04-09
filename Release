@@ -1,6 +1,6 @@
-Origin: AppleBetas' Repo
+Origin: drippnvs' Repo
 
-Label: AppleBetas' Repo
+Label: drippnvvs' Repo
 
 Suite: stable
 
@@ -15,5 +15,5 @@ Components: main
 Description: A collection of useful tweaks and tools
 
 MD5Sum:
-13821b3c6989d4e7b4fa040e063aa00b 479 Packages
-6f7393584e3471a3897cb9a5806c3a4f 418 Packages.bz2
+bd84a94756de805e98f3705823398c08 479 Packages
+0b5effa476d923c4691449a24f3b675b 399 Packages.bz2
