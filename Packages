@@ -1,14 +1,13 @@
 Package: co.dynastic.themes.quartzy
 Depiction: https://dr1ppnvv5.github.io/depiction/co.dynastic.themes.quartzy/
-Depiction: https://dr1ppnvv5.github.io/depiction//
 Version: 1.0.1.4
 Architecture: iphoneos-arm
 Maintainer: drippnvvs <drippnvvs@gmail.com>
 Filename: deb/co.dynastic.themes.quartzy.deb
 Size: 10101642
-MD5sum: ffd3acf7e95ab22a354d9a817b2346f9
-SHA1: b1dd857fffd2a04b9575e69b39ac9e09f66e5cce
-SHA256: b91e4eaa95d7a5f2d2ce3ff6805f891f5a41b63f5775a007458d4d5d6e92ae6f
+MD5sum: c0029635b6405383142ceffb0061ff16
+SHA1: ef082a29f8f7be683c508889f9e11f354ddfcaee
+SHA256: a716e2503c0d1b20815e2b2b9a7aa580bcbe0ad067259710cbc8af462b276550
 Section: Themes
 Homepage: https://drippnvvs.github.io
 Description: Quartzy-beta. Colored, Dark, and Glyph themed crystal icons.
