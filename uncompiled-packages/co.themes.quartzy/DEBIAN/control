@@ -1,0 +1,9 @@
+Package: co.themes.quartzy
+Name: Quartzy-beta
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Quartzy-beta. Colored, Dark, and Glyph themed crystal icons.
+Homepage: https://drippnvvs.github.io
+Maintainer: drippnvvs <drippnvvs@gmail.com>
+Author: drippnvvs <drippnvvs@gmail.com>
+Section: Themes
