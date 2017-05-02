@@ -1,27 +1,12 @@
 Package: co.quartzy.beta
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: drippnvvs <drippnvvs@gmail.com>
 Filename: deb/co.quartzy.beta.deb
-Size: 17659190
-MD5sum: e2740dbf9e3a6a81545ca305ece91966
-SHA1: 546da854aabe502611b88876bb3ea42e3e7cdea8
-SHA256: 2586829c89e8c38a62d126b711bea2affa50dad9b14b9329e7c2e233fd99aa83
-Section: Themes
-Homepage: https://drippnvvs.github.io
-Description: Quartzy-beta. Colored, Dark, and Glyph themed crystal icons.
-Author: drippnvvs <drippnvvs@gmail.com>
-Name: Quartzy-beta
-
-Package: co.themes.quartzy
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: drippnvvs <drippnvvs@gmail.com>
-Filename: deb/co.themes.quartzy.deb
-Size: 18904266
-MD5sum: 1134afbd72ed8f1eba0c538f4ed71b0f
-SHA1: 0d35c64ac107bdb04bb96d7cacb1e2ab0d963695
-SHA256: e9a9914c0fe84acf7efad33b2874c076e991dbfb34758b1557c2b6d92d62cf87
+Size: 19359148
+MD5sum: c7e5c4f236bf8d90802a949e6ff2d775
+SHA1: 061532f00037b4c57315d3f864751f9493501752
+SHA256: 3ba163dac01ec84b866267f483e4b273cffb926ed6f51b700d31e7794bb79864
 Section: Themes
 Homepage: https://drippnvvs.github.io
 Description: Quartzy-beta. Colored, Dark, and Glyph themed crystal icons.
