@@ -420,11 +420,18 @@ h6,
 #header1-9 .mbr-section-title {
   color: #00a885;
 }
-#features3-a H5 {
-  text-align: center;
+#content5-e .mbr-section-title,
+#content5-e p {
+  color: #fff;
+}
+#features1-g .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
 #form1-4 .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-4 .mbr-section-title {
+  color: #ffffff;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
