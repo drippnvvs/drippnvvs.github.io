@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -417,8 +418,21 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+
+
+
+
+
+
+
+
 #header1-9 .mbr-section-title {
   color: #00a885;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 84px;
+}
+#header1-9 .mbr-section-lead {
+  font-family: 'PT Sans', sans-serif;
 }
 #content5-e .mbr-section-title,
 #content5-e p {
@@ -427,16 +441,24 @@ h6,
 #content5-e DIV {
   color: #ffffff;
 }
+#content5-e P {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
 #msg-box2-j .mbr-section-title {
   color: #fff;
 }
 #msg-box2-j .mbr-section-subtitle {
   color: #a0a0a0;
+  font-family: 'PT Sans', sans-serif;
 }
 #content8-i .mbr-section-title,
 #content8-i p {
   text-align: right;
   color: #fff;
+}
+#content8-i P {
+  font-family: 'PT Sans', sans-serif;
 }
 #features1-g .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
@@ -444,11 +466,20 @@ h6,
 #features1-g .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
 }
+#features1-g .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+  font-family: 'PT Sans', sans-serif;
+}
+#features1-g .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #000000;
+  font-family: 'PT Sans', sans-serif;
+}
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-6 .navbar-caption {
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-6 .navbar-toggler {
   color: #ffffff;
