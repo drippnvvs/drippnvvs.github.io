@@ -425,7 +425,10 @@ h6,
   color: #fff;
 }
 #features1-g .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #ffffff;
+}
+#features1-g .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
 }
 #form1-4 .form-control-label {
   color: #ffffff;
