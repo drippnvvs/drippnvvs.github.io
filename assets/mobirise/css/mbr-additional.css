@@ -424,16 +424,24 @@ h6,
 #content5-e p {
   color: #fff;
 }
+#content5-e DIV {
+  color: #ffffff;
+}
+#msg-box2-j .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-j .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#content8-i .mbr-section-title,
+#content8-i p {
+  text-align: right;
+  color: #fff;
+}
 #features1-g .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
 #features1-g .mbr-cards-col:nth-child(even) .card-title {
-  color: #ffffff;
-}
-#form1-4 .form-control-label {
-  color: #ffffff;
-}
-#form1-4 .mbr-section-title {
   color: #ffffff;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
