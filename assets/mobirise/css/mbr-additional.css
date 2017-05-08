@@ -445,10 +445,11 @@ h6,
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
 }
-#msg-box2-j .mbr-section-title {
+#msg-box2-l .mbr-section-title {
   color: #fff;
+  font-size: 30px;
 }
-#msg-box2-j .mbr-section-subtitle {
+#msg-box2-l .mbr-section-subtitle {
   color: #a0a0a0;
   font-family: 'PT Sans', sans-serif;
 }
