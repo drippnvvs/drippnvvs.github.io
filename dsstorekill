@@ -2,18 +2,11 @@
 
 cd uncompiled-packages/
 rm .DS_Store
-cd co.quartzy.beta
+cd co.quartzy.dark.publicbeta
 rm .DS_Store
 cd Library
 rm .DS_Store
 cd Themes
 rm .DS_Store
-cd Quartzy-color.theme
+cd Quartzy-PublicBeta.theme
 rm .DS_Store
-cd ..
-cd Quartzy-dark.theme
-rm .DS_Store
-cd ..
-cd Quartzy-glyph.theme
-rm .DS_Store
-cd ..
