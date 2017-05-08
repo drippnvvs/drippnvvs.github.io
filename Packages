@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: drippnvvs <drippnvvs@gmail.com>
 Filename: deb/co.quartzy.dark.publicbeta.deb
 Size: 3803330
-MD5sum: bba8a198e8053afa38c310b34aa80353
-SHA1: 50596c883f657f8c1da6951fdc9157be5dc6b4ca
-SHA256: a6149a28a232c8bdcc72056782c41984cceb008eb4209602bdd2c9b627af8c4f
+MD5sum: 32cb21ad7c024c94c21032feac238d14
+SHA1: 067651ae550649f8a36f3e0b53f4acb30fe69a16
+SHA256: 7dae603ae48461d3c7306977acf3a94965abaac08fe1090dc079ddd7767f619a
 Section: Themes
 Homepage: https://drippnvvs.github.io
 Description: Quartzy Public-Beta, Dark icons only, full version coming soon!
