@@ -16,9 +16,9 @@ $('.js-9').attr('src', (dpi>1) ? 'images/poppywip-678.png' : 'images/poppywip-33
 $('.js-11').attr('src', (dpi>1) ? 'images/dd-432.png' : 'images/dd-216.png');
 $('.js-14').attr('src', (dpi>1) ? 'images/com.hammerandchisel.discord-large-422.png' : 'images/com.hammerandchisel.discord-large-211.png');
 $('.js-16').attr('src', 'images/artboard-122.jpg');
-$('.js-18').attr('src', (dpi>1) ? 'images/com.atebits.tweetie2-large-176-4.png' : 'images/com.atebits.tweetie2-large-88-4.png');
+$('.js-18').attr('src', (dpi>1) ? 'images/com.atebits.tweetie2-large-176.png' : 'images/com.atebits.tweetie2-large-88.png');
 $('.js-19').attr('src', (dpi>1) ? 'images/com.google.inbox-large-202.png' : 'images/com.google.inbox-large-101.png');
-$('.js-20').attr('src', (dpi>1) ? 'images/com.reddit.reddit-large-186-2.png' : 'images/com.reddit.reddit-large-93-2.png');}else{$('.js').attr('src', (dpi>1) ? 'images/drippn-206.jpg' : 'images/drippn-103.jpg');
+$('.js-20').attr('src', (dpi>1) ? 'images/com.reddit.reddit-large-186.png' : 'images/com.reddit.reddit-large-93.png');}else{$('.js').attr('src', (dpi>1) ? 'images/drippn-206.jpg' : 'images/drippn-103.jpg');
 $('.js-2').attr('src', (dpi>1) ? 'images/com.atebits.tweetie2-large-112.png' : 'images/com.atebits.tweetie2-large-56.png');
 $('.js-3').attr('src', (dpi>1) ? 'images/com.yourcompany.ppclient-large-106.png' : 'images/com.yourcompany.ppclient-large-53.png');
 $('.js-4').attr('src', (dpi>1) ? 'images/com.reddit.reddit-large-108.png' : 'images/com.reddit.reddit-large-54.png');
